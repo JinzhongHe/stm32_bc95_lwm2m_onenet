@@ -1,0 +1,2 @@
+# stm32_bc95_lwm2m_onenet
+基于中移物联网针对M5310模组lwm2m通信demo，针对移远bc95模组做的适配
